@@ -1,5 +1,4 @@
-import { createCache } from "async-cache-dedupe";
-
+import { createCache } from "zacary-async-cache-dedupe";
 import { defaultCacheMethods, defaultMutationMethods } from "./cacheMethods";
 import type {
   CreatePrismaRedisCache,

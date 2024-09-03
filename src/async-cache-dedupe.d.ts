@@ -1,1 +1,1 @@
-declare module "async-cache-dedupe";
+declare module "zacary-async-cache-dedupe";
